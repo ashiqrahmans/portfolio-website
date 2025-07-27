@@ -11,7 +11,7 @@ export function SocialImpact() {
   const impactMetrics = [
     {
       icon: Users,
-      value: "5K+",
+      value: "6K+",
       label: "LinkedIn Followers",
       description: "Built a strong professional community",
     },
