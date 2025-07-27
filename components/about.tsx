@@ -64,7 +64,7 @@ export function About() {
               expertise.
             </p>
             <p className="text-muted-foreground mb-4">
-              Currently pursuing my MBA in Human Resources, I combine academic knowledge with practical experience to
+              Completed my MBA in Human Resources, I combine academic knowledge with practical experience to
               deliver exceptional results in HR operations, employee relations, and organizational development.
             </p>
             <p className="text-muted-foreground">
