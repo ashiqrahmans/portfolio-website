@@ -14,7 +14,7 @@ export function About() {
     },
     {
       icon: Users,
-      title: "5K+ LinkedIn Followers",
+      title: "6K+ LinkedIn Followers",
       description: "Built strong professional network and personal brand",
     },
     {
